@@ -53,12 +53,12 @@ Sou **Engenheiro de Software** focado no desenvolvimento de plataformas web robu
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade & Estatísticas no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GitAkzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=141414&title_color=6961D7&icon_color=6961D7&text_color=ffffff" alt="Estatísticas de GitAkzo" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitAkzo&layout=compact&theme=tokyonight&hide_border=true&bg_color=141414&title_color=6961D7&text_color=ffffff" alt="Linguagens Mais Utilizadas" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GitAkzo&theme=tokyonight&hide_border=true&background=141414&ring=6961D7&fire=6961D7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6961D7" alt="GitHub Streak de GitAkzo" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitAkzo&theme=tokyonight" alt="Visão Geral GitAkzo" height="175" />
 
 </div>
 
