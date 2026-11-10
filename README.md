@@ -5,7 +5,7 @@
 
 [![Portfólio Oficial](https://img.shields.io/badge/Portfólio-rasec.dev-6961D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rasec.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rasec_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasec-silva/)
-[![Instagram](https://img.shields.io/badge/Instagram-@rasec1921-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rasec1921/)
+[![Instagram](https://img.shields.io/badge/Instagram-@paulorasec.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulorasec.dev/)
 [![Contato](https://img.shields.io/badge/E--mail-paulorasec2021%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paulorasec2021@outlook.com)
 
 <br/>
@@ -68,5 +68,5 @@ Sou **Engenheiro de Software** focado no desenvolvimento de plataformas web robu
 
 - 🌐 Visite meu portfólio completo em **[rasec.dev](https://www.rasec.dev/)**
 - 💼 Conecte-se profissionalmente no **[LinkedIn](https://www.linkedin.com/in/rasec-silva/)**
-- 📸 Acompanhe meus bastidores no **[Instagram @rasec1921](https://www.instagram.com/rasec1921/)**
+- 📸 Acompanhe meus bastidores no **[Instagram @paulorasec.dev](https://www.instagram.com/paulorasec.dev/)**
 - 📱 WhatsApp Comercial: **+55 (41) 9 9933-7207**
